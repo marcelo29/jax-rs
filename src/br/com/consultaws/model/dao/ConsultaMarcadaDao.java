@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import com.mysql.jdbc.PreparedStatement;
+import java.sql.PreparedStatement;
 
 import br.com.consultaws.enums.Situacao;
 import br.com.consultaws.model.bean.ConsultaMarcada;

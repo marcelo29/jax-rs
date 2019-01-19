@@ -3,7 +3,7 @@ package br.com.consultaws.model.dao;
 import java.sql.Connection;
 import java.sql.ResultSet;
 
-import com.mysql.jdbc.PreparedStatement;
+import java.sql.PreparedStatement;
 
 import br.com.consultaws.model.bean.Usuario;
 import br.com.consultaws.model.conectionfactory.ConectaSql;
