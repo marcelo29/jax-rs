@@ -6,6 +6,7 @@ import java.sql.SQLException;
 
 public class ConectaSql {
 
+	
 	private static final String URL = "jdbc:postgresql://localhost/marcar_consulta";
 	private static final String USER = "postgres";
 	private static final String PASSWORD = "1234";
